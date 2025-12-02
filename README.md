@@ -3,16 +3,16 @@
 Nombre: Horacio Calderon Martinez
 Correo: horacio.calderon@ucb.edu.bo
 
-Breve descripción: “Este proyecto consiste en un menú de juegos programado en C, que permite al usuario elegir entre varios juegos como :
+<img width="1472" height="828" alt="image" src="https://github.com/user-attachments/assets/b2d24a90-d15a-45bb-b7bb-beaef6a4674a" />
 
--Snake
--Carreras
--Ahorcado
+
+Breve descripción: Juego de ritmo con lenguaje python y con la libreria python
+
 
 #------------ Estructura -------------
  
-El proyecto se esta modularizando en 2 carpetas inc que incluye funciones.h y src que incluye funciones.c donde iran todos los juegos o funciones y main.c donde se pondra el menu
+El proyecto se esta modularizando en 2 carpetas src y assets
 
 ├── Proyecto/
-│ ├── inc/ #Cabeceras
-│ └── src/ #Cuerpo
+│ ├── assets/ 
+│ └── src/
